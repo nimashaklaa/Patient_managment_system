@@ -1,0 +1,5 @@
+krishal,headache,paracetemol,done,medium
+shama,cancer,hethorgins,done,high
+thuwan,rash,sentigous,not,low
+kamal,headache,peracitemol,done,medium
+sunimal,headache,peracitemol,sevior,medium

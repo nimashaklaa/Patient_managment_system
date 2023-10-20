@@ -1,0 +1,4 @@
+amandi,81dc9bdb52d04dc20036dbd8313ed055,staff,2
+kamal,91e289c8e0f88e5ed7eeef4ee3688bff,patient,1
+nilumi,629f2c0d725fef2533579f7c77c99dbc,staff,1
+nihal,bd63019e29fa1e8620a9551937a048bf,staff,1
